@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/buton_rengi_pres" android:state_pressed="true"/>
+    <!--Basıldığında Bu renk olması için android:state_pressed="true" kodu girildi    ilk bu itemi yazmak şartkı varrr-->
+
+    <item android:drawable="@drawable/buton_rengi"/>
+  
+
+</selector>

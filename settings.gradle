@@ -1,0 +1,2 @@
+rootProject.name='Ilk_Mobil_Proje'
+include ':app'
